@@ -1,4 +1,8 @@
-# SentriBot 🦸
+<p align="left">
+   <img src="sentribot_logo.png" alt="SentriBot logo" width="120"/>
+</p>
+
+# SentriBot
 
 A Discord bot that uses AI to automatically detect and quarantine spam, phishing, and malicious messages in real-time.
 
