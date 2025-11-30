@@ -47,7 +47,7 @@ A Discord bot that uses AI to automatically detect and quarantine spam, phishing
    pip install -r requirements.txt
    ```
 
-3. **Train and export the model**
+3. **Train and export the model OR Direct download**
    
    Open and run all cells in `SentryBot_Model.ipynb`:
    ```bash
@@ -59,6 +59,11 @@ A Discord bot that uses AI to automatically detect and quarantine spam, phishing
    - Fine-tune DistilBERT on spam/phishing detection
    - Save the trained model to `./phishing_detection_model/`
    - Rename the folder to `discord_scam_model/` if needed
+
+   --- 
+
+   To download the model without training yourself, use the following link:
+   https://drive.google.com/drive/folders/1vbXaIjQCOy9U3QHLgps2N9F9o22tY4Dj?usp=sharing
 
 4. **Set up environment variables**
    
